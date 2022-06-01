@@ -3,7 +3,9 @@ import { SafeAreaView, StyleSheet, View } from "react-native";
 import { COLORS } from "../util/colors";
 
 function RegisterScreen() {
-  return <SafeAreaView style={styles.container}></SafeAreaView>;
+  return <SafeAreaView style={styles.container}>
+      
+  </SafeAreaView>;
 }
 
 const styles = StyleSheet.create({
